@@ -1,1 +1,7 @@
-/* CSS CODE HERE */
+#nav{
+    display: inline-block;
+    }
+
+    ul li{
+        display: inline-block;
+    }
