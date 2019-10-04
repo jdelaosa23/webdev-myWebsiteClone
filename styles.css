@@ -1,7 +1,43 @@
 #nav{
     display: inline-block;
+    height: 100px;
+    width: 100%;
+    opacity: transparent;
+    font: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: white;
+    padding: 0 30px;
+
+    }
+
+.navtitle{
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+}
+
+.navmenu{
+    display: inline-block;
+    font-size: 14pt;
+    color: #E6E6E6;
+    float: right;
+    padding: 0 20px;
+}
+
+   body{
+       margin: 0px;
+       padding: 0px;
+   }
+
+    #HeroSection{
+        width: 100%;
+        color: #555555;
+        margin-top: -150px;
+        height: 1000px;
+        background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0), transparent), url(assets/HeroSection.jpg);
     }
 
     ul li{
         display: inline-block;
+        padding: 8px 20px;
     }
