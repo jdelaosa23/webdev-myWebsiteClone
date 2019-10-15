@@ -156,5 +156,50 @@
     #Team{
         height:300px;
         width: 100%;
-        margin: 0 -35px;
+        margin: 0px -15px;
+        padding: 165px 45.5px 0;
+        
     }
+
+    #teamtext{
+        margin: 0 0 15px;
+        color: black;
+        font-size: 32px;
+        font: "Open Sans", sans-serif;
+    }
+
+    .OurTeam{
+        padding: 25px 10px 10px;
+    }
+
+
+    #TeamPictures{
+        width: 100%;
+        height: 500px;
+    }
+
+    .Lady{
+        display: inline-block;
+
+    }
+
+    .Lady2{
+        display: inline-block;
+    }
+
+    .GlassesGuy{
+        display: inline-block;
+    }
+
+    #Description{
+        width: 100%;
+        height: 200px;
+        background-color:#1E1E1E;
+        margin: 0px -35.6px;
+        padding: 0px 45.5px 15px;
+    }
+
+    .CPAC{
+        margin: 0px -15px;
+    }
+
