@@ -3,7 +3,7 @@
     height: 100px;
     width: 100%;
     opacity: transparent;
-    font: 'Open Sans', sans-serif;
+    font-style: 'Open Sans', sans-serif;
     font-size: 25px;
     color: white;
     padding: 0 30px;
@@ -53,7 +53,7 @@
         color: white;
         margin-top: -30%;
         margin-left: 37%;
-        font: "Open Sans", sans-serif;
+        font-style: "Open Sans", sans-serif;
         font-size: 70px;
         padding: 0 15px;
         font-weight: 400;
@@ -66,7 +66,7 @@
     h2{
         color: white;
         margin-left: 27.5%;
-        font:  "Open Sans", sans-serif;
+        font-style:  "Open Sans", sans-serif;
         font-size: 40px;
         padding: 30px 15px 0;
         letter-spacing: 20px;
@@ -119,7 +119,7 @@
         font-size: 20px;
         padding: 20px 0px 10px;
         margin: 0px 0px 15px;
-        font: "Open Sans", sans-serif;
+        font-style: "Open Sans", sans-serif;
     }
 
     #AboutUs{
@@ -149,7 +149,7 @@
 
     p{
         font-size: 13px;
-        font: "Open Sans", sans-serif;
+        font-style: "Open Sans", sans-serif;
         color: #ffffff;
     }
 
@@ -165,7 +165,7 @@
         margin: 0 0 15px;
         color: black;
         font-size: 32px;
-        font: "Open Sans", sans-serif;
+        font-style: "Open Sans", sans-serif;
     }
 
     .OurTeam{
@@ -216,7 +216,7 @@
 
     #Title{ 
         color: #1E1E1E;
-        font: "Open Sans", sans-serif;
+        font-style: "Open Sans", sans-serif;
         font-size: 28px;
         margin: 0px -35.6px;
         padding: 30px 45.5px 15px;
@@ -227,6 +227,7 @@
 
     #Second{
         color: grey;
+        font-size: 14px;
     }
 
     .Title{ 
@@ -249,7 +250,7 @@
     }
 
     #TTitle{
-        font: "Open Sans", sans-serif;
+        font-style: "Open Sans", sans-serif;
         font-size: 28px;
         padding: 50px;
     }
@@ -257,4 +258,49 @@
     #Third{
         text-align: center;
         width: 100%;
+        font: 14px;
     }
+
+    #Logos{
+        width: 100%;
+        height: 400px;
+        background-color: white;
+        margin: 0px -36px 0px -36px;
+        margin-top: 30px;
+        margin-bottom: 60px;
+        }
+
+    #Footer{
+        width: 100%;
+        height:200px;
+        background-color: #E6E6E6;
+        margin: 0 -36px 0 -36px;
+        
+
+        }
+
+        h4{
+            text-align: center;
+            font-style: "Open Sans", sans-serif;
+            font-size: 24px;
+            
+        }
+   
+        .Media{
+            margin-top: 50px;
+        }
+
+        #Footer2{
+            background-color: #1E1E1E;
+            width: 100%;
+            height: 50px;
+            margin: 0 -36px 0 -36px;
+            margin-top: -20px;
+        }
+
+        .FooterText{
+            vertical-align: middle;
+            letter-spacing: 5px;
+            font-style: "Open Sans", sans-serif;
+        }
+    
